@@ -47,9 +47,7 @@ I’m open to contributions! If you have ideas for improving this project, feel 
 1. **Fork the Repository**: Make your changes in a new branch.
 2. **Submit a Pull Request**: I’m happy to review and discuss any improvements or suggestions.
 
-## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ---
 
